@@ -1,11 +1,7 @@
-# student-performance-project
-Student Performance Analysis using Python (EDA Project)
-README.md lo ila pettachu:
-
 # Student Performance Analysis
 
 ## Project Description
-This project performs Exploratory Data Analysis (EDA) on student performance dataset.
+This project performs Exploratory Data Analysis (EDA) on a student performance dataset to understand how different factors affect students' scores.
 
 ## Tools Used
 - Python
@@ -14,9 +10,15 @@ This project performs Exploratory Data Analysis (EDA) on student performance dat
 - Seaborn
 - Jupyter Notebook
 
-## Files
+## Files in this Repository
 - studentperformance.ipynb → Main analysis notebook
-- StudentsPerformance.csv → Dataset
+- StudentsPerformance.csv → Dataset used for analysis
 
 ## Objective
-To analyze how different factors affect student scores.
+To analyze the impact of different factors such as gender, parental education, lunch type, and test preparation course on students' math, reading, and writing scores.
+
+## Key Insights
+- Performance differences based on gender
+- Effect of test preparation course
+- Influence of parental education
+- Relationship between reading, writing, and math scores
